@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = https://github.com/4fr0c4mp3s1nd10/teste-curso-dio-dominando-ide-java.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	rebase = false
